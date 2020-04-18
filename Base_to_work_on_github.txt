@@ -1,0 +1,23 @@
+First, you need to install on your PC git.
+
+For that, go to https://gitforwindows.org/ and download git by button Download.
+
+After that, you'll be have to initial your git repositories. 
+I recomended you create directory by this command:
+
+//open git Bash
+
+write: "cd Documents" (This command go you to Documets);
+
+write: "mkdir Git_Sergo-Mergo" (This command create new directory with name "Git_Sergo-Mergo" on your PC);
+
+write "cd Git_Sergo-mergo";
+
+
+Now, when your create you local directory, it's good time to clone our repositories to your PC. For do that you need to do:
+
+write: "git clone https://github.com/Sergo-Mergo/antonvarlamovkrytoichyvak.git"
+
+
+
+After you do all this instruction, you will have git repository. You can start to work with GitHub.
