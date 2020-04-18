@@ -21,3 +21,5 @@ write: "git clone https://github.com/Sergo-Mergo/antonvarlamovkrytoichyvak.git"
 
 
 After you do all this instruction, you will have git repository. You can start to work with GitHub.
+
+In this version of that file i'll demostrate pluses of version control on gitHub.
