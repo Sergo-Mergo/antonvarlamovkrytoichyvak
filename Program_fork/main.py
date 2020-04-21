@@ -1,10 +1,13 @@
 import search as search
 
 
-coef_1 = float(input("Введите первый коэффициент"))
-coef_2 = float(input("Введите второй коэффициент"))
+list_1=[]
+list_2=[]
 
+list_1, a = search.Get_good_position()
 
-S_1, S_2  = search.Condition_check(coef_1, coef_2)
-
-print("%.3f"  % S_1,"%.3f" % S_2)
+for i in range(a):
+    list_2 = list_1[i]
+    for j in 1,2,3:
+        number_of_string, summ_1, summ_2 = list_2[0], list_2[1], list_2[2]
+    print(int(number_of_string), float(summ_1), float(summ_2))
